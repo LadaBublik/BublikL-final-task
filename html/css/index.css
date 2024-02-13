@@ -1,0 +1,22 @@
+.container {
+	width: 1880px;
+	height: 440px;
+	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
+	}
+ nav {
+	 float: right;
+}
+ nav ul {
+	 margin: 0;
+	 padding: 0;
+	 list-style: none;
+}
+ nav li {
+	 display: inline-block;
+}
+ body {
+	 background: black;
+}
+ a {
+	 color: #1e0cbd
+}
