@@ -1,0 +1,27 @@
+body {
+    font-size: 25px;
+    background: rgb(237, 250, 191);
+    line-height: 35px
+}
+.green {
+    color: rgb(19, 112, 34);
+    text-align: center;
+}
+li.blue {
+    color: rgb(73, 43, 158);
+    font-weight: bold;
+}
+li.orange {
+    color: rgb(212, 115, 4);
+    font-weight: bold;
+}
+.font-weight {
+    font-weight: bold;
+   margin: 10px;
+   color:rgb(76, 43, 226);
+}
+img.fig {
+    float: right;
+    padding-right: 50px;
+    padding-bottom: 10px;
+}

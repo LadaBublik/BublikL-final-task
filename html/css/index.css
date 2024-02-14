@@ -1,15 +1,10 @@
 .container {
-	width: 1880px;
-	height: 440px;
+	width: 1903px;
+	height: 410px;
 	background-image: linear-gradient(to right, #E2BCBB, #E4514A);
 	}
  nav {
-	 float: right;
-}
- nav ul {
-	 margin: 0;
-	 padding: 0;
-	 list-style: none;
+	 float:inherit;
 }
  nav li {
 	 display: inline-block;
@@ -19,4 +14,16 @@
 }
  a {
 	 color: #1e0cbd
+}
+img.fig {
+    float: left;
+}
+img.fig2 {
+    float: right;
+}
+img.fig3 {
+    float: left;
+}
+img.fig4 {
+    float: right;
 }

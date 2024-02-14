@@ -1,0 +1,16 @@
+body {
+    font-size: 25px;
+    background: rgb(233, 240, 235);
+    line-height: 35px
+}
+.violet {
+    color: rgb(113, 12, 122);
+    text-align: center;
+}
+.red {
+    color: rgb(165, 17, 17);
+    font-weight: bold;
+}
+img.fig {
+    float: left;
+}
